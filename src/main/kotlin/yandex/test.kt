@@ -1,0 +1,5 @@
+package yandex
+
+fun main() {
+
+}
